@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FormValidation</string>
+    <string name="required" />
+</resources>
